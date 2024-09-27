@@ -2,7 +2,7 @@
 Hi there! I’m HAIDER ALI AWAN , a passionate developer with a strong foundation in web development and machine learning.
 I love turning ideas into reality through code and am always eager to learn new technologies and enhance my skills.
 
-**🌍 Skills******
+**🌍 Skills**
 
 **Machine Learning**
 Languages: Python, R , C++
