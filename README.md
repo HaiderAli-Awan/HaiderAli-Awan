@@ -6,7 +6,7 @@ I build and ship **production web applications end to end** — React/Next.js fr
  
 - 🔭 Building full-stack apps with **Next.js, MERN, and AI integrations**
 - 🤖 IBM Generative AI Engineer — **LangChain · RAG · LangGraph · MCP**
-- 🎓 BS in **Artificial Intelligence & Computer Science** (NUML)
+- 🎓 BS in **Computer Science** (NUML)
 - 📊 Real-world data analytics — managed & reported on **AED 4M+** in business data
 - 💼 Open to **Full-Stack** and **Full-Stack AI** roles
 - 📫 Reach me at **haideraliawanofficial@gmail.com**
