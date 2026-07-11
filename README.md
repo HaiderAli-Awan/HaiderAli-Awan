@@ -65,7 +65,7 @@ I build and ship **production web applications end to end** — React/Next.js fr
 | **AutoFix Pro** | MERN auto service & sales app with real-time slot booking and a hardened 9-endpoint REST API | React · Node · Express · MongoDB | [Demo](https://autofix-pro-frontend.vercel.app) |
 | **Axion Systems** | 10-page enterprise B2B site with typed data layer, multi-step RFP form, and data visualizations | Next.js 14 · TypeScript · Framer Motion | [Demo](https://axion-systems-fawn.vercel.app) |
  
----
+----
  
 ## 📈 GitHub Stats
  
